@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Lohitaksha's Homepage  </title>
+</head>
+<body>
+    
+    <h1>Lohitaksha Negi</h1>
+    <img src="Loki1.png" height="151" alt="Image reload">
+    <p><em>The <strong><a href="https://www.forbes.com/real-time-billionaires/#1c3191f03d78">Billionire</a></strong> in making</em></p>
+    <p>So i am a persom who is right now working on making this weebsite, and going to meet my hod today</p>
+    <hr>
+    <h3>Books and teachings</h3>
+    <ul>
+        <li>Reading atomic habits</li>
+        <li>Read Alchemist</li>
+    </ul>
+    <h3>Hobbies: 😍</h3>
+    <ol>
+        <li>Basketball</li>
+        <li>Really enjoying Web Developement rn</li>
+        <li>Learning Languages</li>
+    </ol>
+</body>
+</html>
